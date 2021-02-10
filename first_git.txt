@@ -4,3 +4,4 @@ gitを開始します。
 ・git commit
 ・git log
 ・git status
+・git commit -v
