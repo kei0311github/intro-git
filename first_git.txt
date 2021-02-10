@@ -1,2 +1,6 @@
 gitを開始します。
 ワークフローを学ぶ
+・git add
+・git commit
+・git log
+・git status
